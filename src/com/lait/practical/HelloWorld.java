@@ -8,6 +8,7 @@ public class HelloWorld {
 		
 		System.out.println("Total sum is = "+x+y);
 		System.out.println("Amarjeet");
+		System.out.println("Lalit");
 	}
 
 }
