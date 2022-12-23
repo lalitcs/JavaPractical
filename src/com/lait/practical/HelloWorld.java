@@ -7,6 +7,7 @@ public class HelloWorld {
 		int y=20;
 		
 		System.out.println("Total sum is = "+x+y);
+		System.out.println("Amarjeet");
 	}
 
 }
